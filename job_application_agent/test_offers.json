@@ -1,0 +1,44 @@
+[
+    {
+        "id": "test_1",
+        "posted_date": "2025-12-04",
+        "title": "Chargé(e) de Communication Événementielle (CDI)",
+        "company": "EventPro Lyon",
+        "location": "Lyon, France",
+        "contract_type": "CDI",
+        "description": "Nous recherchons un(e) Chargé(e) de Communication Événementielle pour gérer l'ensemble de nos événements clients. Expérience de 3 ans minimum requise. Maîtrise des outils de PAO et des réseaux sociaux. Anglais courant indispensable.",
+        "url": "https://example.com/offer/1",
+        "language": "fr",
+        "source": "Test_Data",
+        "application_type": "form",
+        "application_url": "https://example.com/apply/1"
+    },
+    {
+        "id": "test_2",
+        "posted_date": "2025-12-04",
+        "title": "Global Event Manager (CDD 12 mois)",
+        "company": "TechGlobal Remote",
+        "location": "Full Remote",
+        "contract_type": "CDD",
+        "description": "Join our team as a Global Event Manager. You will be responsible for planning and executing virtual and physical events worldwide. Strong project management skills and fluency in English are mandatory. Knowledge of French is a plus.",
+        "url": "https://example.com/offer/2",
+        "language": "en",
+        "source": "Test_Data",
+        "application_type": "email",
+        "application_url": "hr@techglobal.com"
+    },
+    {
+        "id": "test_3",
+        "posted_date": "2025-12-04",
+        "title": "Responsable Communication Digitale (CDI)",
+        "company": "Digital Connect",
+        "location": "Lyon, France",
+        "contract_type": "CDI",
+        "description": "Poste de Responsable Communication Digitale. Gestion de la stratégie de contenu, SEO, et animation des communautés. Expérience en agence souhaitée. Pas de stage ni d'alternance.",
+        "url": "https://example.com/offer/3",
+        "language": "fr",
+        "source": "Test_Data",
+        "application_type": "form",
+        "application_url": "https://example.com/apply/3"
+    }
+]
